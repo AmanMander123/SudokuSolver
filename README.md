@@ -1,9 +1,9 @@
-#Sudoku Solver
+# Sudoku Solver
 
-##Purpose
+## Purpose
 The purpose of this Python program is to solve a sudoku puzzle. 
 
-##Input
+## Input
 The input is a CSV file consisting of an unsolved Sudoku with 0's representing as blanks. For example:
   
 0,3,5,2,9,0,8,6,4
@@ -24,7 +24,7 @@ The input is a CSV file consisting of an unsolved Sudoku with 0's representing a
 
 8,0,0,9,0,0,5,2,6
 
-##Output
+## Output
 The output will be a CSV file consisting of the solved Sudoku. For example, the solutions to the above Sudoku:
 
 1,3,5,2,9,7,8,6,4
@@ -45,7 +45,7 @@ The output will be a CSV file consisting of the solved Sudoku. For example, the 
 
 8,7,1,9,4,3,5,2,6
 
-##About
+## About
 Required packages:
 
   * numpy
